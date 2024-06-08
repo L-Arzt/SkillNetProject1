@@ -11,6 +11,7 @@ const handler = NextAuth({
     strategy: 'jwt',
   },
   secret: process.env.NEXTAUTH_SECRET,
+
   providers: [
     CredentialsProvider({
       credentials: {
