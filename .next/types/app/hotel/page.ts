@@ -1,4 +1,4 @@
-// File: /Users/der/Documents/skillnetproject/SkillNetProjectt/app/hotel/page.js
+// File: /Users/der/Documents/SkillNetProjectt/app/hotel/page.js
 import * as entry from '../../../../app/hotel/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
