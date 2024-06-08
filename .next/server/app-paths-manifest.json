@@ -2,5 +2,5 @@
   "/test/page": "app/test/page.js",
   "/page": "app/page.js",
   "/hotel/page": "app/hotel/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/admin/course/page": "app/admin/course/page.js"
 }
