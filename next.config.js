@@ -2,6 +2,5 @@
 const nextConfig = {};
 
 module.exports = {
-  // output: 'export',
-  // ...
+  output: 'export',
 };
